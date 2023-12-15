@@ -1,0 +1,11 @@
+{
+  "name": "fromscratch",
+  "version": "1.0.0",
+  "description": "building a react app from scratch, then switching out all the parts",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "cgalatro",
+  "license": "ISC"
+}
